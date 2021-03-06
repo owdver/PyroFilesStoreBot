@@ -24,7 +24,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** @Owdver_Bot
 
 👥 **Support Group:** [OB Bots Discuss](https://t.me/ObBotsDiscuss)
 

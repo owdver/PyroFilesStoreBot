@@ -1,4 +1,4 @@
-# (c) @AbirHasan2005
+# (c) @owdver_bot
 
 import os
 
@@ -26,9 +26,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @Owdver_Bot
 
-👥 **Support Group:** [OB Bots Discuss](https://t.me/ObBotsDiscuss)
+👥 **Support Group:** [OB Bots Discuss](https://t.me/Ob_support)
 
-📢 **Updates Channel:** [OB Bots](https://t.me/ObBots)
+📢 **Updates Channel:** [OB Bots](https://t.me/Owdverbots)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @Owdver_bot
@@ -37,7 +37,6 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Donate Now](https://www.paypal.me/AbirHasan2005) (PayPal)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **File Store Bot**.
